@@ -8,7 +8,11 @@ Installation
 
 1) Install Python
 
-2) Install the 'prowler' Python module with pip (pip install prowler) or easy_install (easy_install prowler)
+2) Install the 'prowler' and 'simplejson' Python modules with pip or easy_install
+
+```pip install prowler simplejson
+or
+easy_install prowler simplejson```
 
 3) Go to http://www.prowler.com/ and register an account
 
